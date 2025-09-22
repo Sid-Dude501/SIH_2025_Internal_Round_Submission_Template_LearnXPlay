@@ -1,4 +1,4 @@
-# PS Chosen SIH Hackathon
+# PS Chosen SIH Hackathon - (25141) Student Innovation: Swadeshi for Atmanirbhar Bharat - Toys & Games
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
