@@ -19,8 +19,8 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
+- **SIH Presentation:** [Final SIH Presentation](https://drive.google.com/file/d/1zEpNW00PB2dJm6HMYBOJI07_SqqpMzVT/view?usp=sharing)
+- **Video Demonstration:** [Watch Video](https://youtu.be/fXeFQczICWY)
 - **Live Deployment:** [View Deployment](https://comforting-travesseiro-3d73a6.netlify.app)
 - **Source Code:** [GitHub Repository](https://github.com/Sid-Dude501/LXP_Prototype_3.0)
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+- **Additional Resources:** [None]
